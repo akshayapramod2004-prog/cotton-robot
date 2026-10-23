@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 5
+names: ['==============================', 'Cotton Boll Detection - v1 2024-02-24 11:21am', 'Roboflow is an end-to-end computer vision platform that helps you', 'This dataset was exported via roboflow', 'This dataset was exported via roboflow.com on February 24, 2024 at 6:00 AM GMT']
+
+roboflow:
+  workspace: akshaya-pramod
+  project: cotton-bud-detection-gij6m
+  version: dataset
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/akshaya-pramod/cotton-bud-detection-gij6m/dataset/dataset

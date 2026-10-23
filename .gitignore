@@ -1,0 +1,27 @@
+# Virtual Environments
+.venv*/
+venv/
+env/
+
+# Large Datasets & Archives (> 100MB blocked by GitHub)
+dataset/
+images/
+*.zip
+*.tar
+*.tar.gz
+
+# Training Runs & Checkpoints
+runs/
+*.log
+
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary & System Files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
